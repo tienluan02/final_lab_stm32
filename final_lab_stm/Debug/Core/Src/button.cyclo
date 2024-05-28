@@ -1,0 +1,11 @@
+../Core/Src/button.c:44:5:isButton1Pressed	2
+../Core/Src/button.c:53:5:isButton2Pressed	2
+../Core/Src/button.c:62:5:isButton2LongPressed	1
+../Core/Src/button.c:67:5:isButton3Pressed	2
+../Core/Src/button.c:76:5:isButton3LongPressed	1
+../Core/Src/button.c:81:6:subKeyProcess1	1
+../Core/Src/button.c:86:6:subKeyProcess2	1
+../Core/Src/button.c:91:6:subKeyProcess3	1
+../Core/Src/button.c:96:6:getKeyInput1	6
+../Core/Src/button.c:117:6:getKeyInput2	8
+../Core/Src/button.c:149:6:getKeyInput3	8
